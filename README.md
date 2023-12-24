@@ -33,12 +33,10 @@ mat=np.array(eval(input()))
 ans=np.linalg.norm(mat,np.inf)
 Norm_of_matrix="{:.2f}".format(ans)
 print(Norm_of_matrix)
-
-
 ```
 ## Output:
 ### 1-Norm of a Matrix
-![output1](/OUTPUT1.png)
+![output1](/Screenshot%202023-12-24%20171254.png)
 ### 2-Norm of a Matrix
 ![output2](/OUTPUT2.png)
 ### Infinity Norm of a Matrix
