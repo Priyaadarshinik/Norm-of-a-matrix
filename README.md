@@ -36,7 +36,7 @@ print(Norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-![output1](/Screenshot%202023-12-24%20171254.png)
+![output1](/OUTPUT1.png)
 ### 2-Norm of a Matrix
 ![output2](/OUTPUT2.png)
 ### Infinity Norm of a Matrix
